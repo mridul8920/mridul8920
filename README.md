@@ -24,10 +24,9 @@
 
 
 ### About Me 🚀
-- 🎓 I’m an Coding enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
+- 🎓 I’m currently pursuing my Bachelors in Computer Science & Engineering from Guru Tegh Bahadur Institute of Technology.
 - 👀 I’m highly interested in programming, developing projects and collaborating with such more developers.
-- 🌱 I’m currently learning Data Structures and Algorithms and web development.
-- 💞️ I’m trying to arrange resources for my juniors.
+- 🌱 I’m currently learning Data Structures and Algorithms and enhancing my problem solving skills.
 
 
 </br>
