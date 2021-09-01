@@ -16,6 +16,12 @@
 ">
   <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
 </a>&nbsp;&nbsp;
+   
+   <a href="https://leetcode.com/mridul_8920/
+">
+  <img align="center" width="30px" src="https://www.svgrepo.com/svg/306171/hackerrank" />
+</a>&nbsp;&nbsp;
+   
 <a href="https://dev.to/mridul8920">
   <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
 </a>
