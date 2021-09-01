@@ -50,13 +50,13 @@
 </p>
 </br>
 
-<img src="workbench.svg" width="40%" align="right">
-
-
-### My expriences 💻
-- I'm GeeksforGeeks Campus Mantri.
-- I'm GFG IIST Chapter Innovation Head.
-- Mentored around 50 students for get started with coding.
-- I had served CodeChef IIST as a Competitive Progeammer.
+### My Expriences 💻
+- GFG Institute Rank 3
+- 5⭐ on Hackerrank
+- Intern at Gurugram Police Cyber Security Summer
+  Internship Program 2021
+- GWOC Open Source Contributor 
+- Internshala Student Partner-23
+- Training and Placement Coordinator GTBIT
 
 </br></br></br></br>
