@@ -54,7 +54,9 @@
 - 5⭐ on Hackerrank
 - Intern at Gurugram Police Cyber Security Summer
   Internship Program 2021
+- Google Developer Students Club -GTBIT CP Lead
 - GWOC Open Source Contributor 
+- Hacktober Open Source Contributor 
 - Internshala Student Partner-23
 - Training and Placement Coordinator GTBIT
 
