@@ -50,7 +50,7 @@
 </br>
 
 ### My Expriences and Achievements 💻
-- GFG Institute Rank 3
+- GFG Institute Rank 2
 - 5⭐ on Hackerrank
 - Intern at Gurugram Police Cyber Security Summer
   Internship Program 2021
