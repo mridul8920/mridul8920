@@ -3,7 +3,7 @@
 
 <p align='center'>
    <img src="https://readme-typing-svg.herokuapp.com?color=e96443&size=40&width=900&height=80&lines=Welcome-to-My-Github-Profile"/>
-    <img src="https://readme-typing-svg.herokuapp.com?color=2599db&size=40&width=900&height=80&lines=Connect-to-me-on-my-social-accounts"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=2599db&size=40&width=900&height=80&lines=Connect-with-me-on-my-social-accounts"/>
 </p>
 
 <p align='center'>
